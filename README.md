@@ -35,14 +35,6 @@ Atualmente, venho concentrando meus esforços de desenvolvimento e evolução t�
 
 ---
 
-### Estatísticas do GitHub
-
-[![Estatísticas do GitHub de rainankaneka](https://github-readme-stats.vercel.app/api?username=rainankaneka&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/rainankaneka)
-
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rainankaneka&layout=compact&theme=dark)](https://github.com/rainankaneka)
-
----
-
 ### Social
 
 - **LinkedIn:** https://linkedin.com/in/rainan-reis-oliveira
