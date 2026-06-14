@@ -21,17 +21,17 @@ Atualmente, venho concentrando meus esforços de desenvolvimento e evolução t�
 #### [CodexMaster](https://github.com/rainankaneka/CodexMaster)
 *Painel interativo voltado para a automação e gerenciamento de mecânicas de jogos e sistemas de RPG de mesa.*
 - **Destaques:** Implementação de controle de estados de personagens (vida, estabilização e óbito) e tratamento detalhado de regras complexas.
-- **Tecnologias:** [Adicione as tecnologias usadas, ex: React / TypeScript]
+- **Tecnologias:** React, Typescript, TailWind CSS
 
 #### [Frierendle](https://github.com/rainankaneka/Frierendle)
 *Um jogo de adivinhação diária inspirado no Wordle, com filtros de personagens e mecânicas específicas ambientadas no universo do anime Frieren.*
 - **Destaques:** Desenvolvimento de lógica de filtros dinâmicos, controle de spoilers e interface responsiva para fãs.
-- **Tecnologias:** [Adicione as tecnologias usadas, ex: HTML / CSS / JavaScript]
+- **Tecnologias:** HTML, CSS, JavaScript
 
 #### [ChatbotFatec](https://github.com/rainankaneka/ChatbotFatec)
 *Assistente virtual desenvolvido para otimizar a comunicação, responder dúvidas frequentes e auxiliar processos dentro do ambiente acadêmico.*
 - **Destaques:** Estruturação de fluxos de conversação e integração de serviços eficientes para o público universitário.
-- **Tecnologias:** [Adicione as tecnologias usadas, ex: Python / NestJS]
+- **Tecnologias:** React, Typescript, PostgreSQL
 
 ---
 
