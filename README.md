@@ -28,7 +28,7 @@ Atualmente, venho concentrando meus esforços de desenvolvimento e evolução t�
 - **Destaques:** Desenvolvimento de lógica de filtros dinâmicos, controle de spoilers e interface responsiva para fãs.
 - **Tecnologias:** HTML, CSS, JavaScript
 
-#### [ChatbotFatec](https://github.com/rainankaneka/ChatbotFatec)
+#### [ChatbotFatec](https://github.com/RainanKaneka/2DSM-ABP-UNDEFINED)
 *Assistente virtual desenvolvido para otimizar a comunicação, responder dúvidas frequentes e auxiliar processos dentro do ambiente acadêmico.*
 - **Destaques:** Estruturação de fluxos de conversação e integração de serviços eficientes para o público universitário.
 - **Tecnologias:** React, Typescript, PostgreSQL
